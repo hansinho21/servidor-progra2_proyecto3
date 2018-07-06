@@ -1,0 +1,79 @@
+-->
+{
+  "mensaje": "conexión",
+  "valor": "Ticos"
+}
+<--
+{
+  "mensaje": "información",
+  "valor": "Bienvenidos \"Ticos\""
+}
+<--
+{
+  "mensaje": "pregunta",
+  "valor": "¿Cuá es la capital de Australia?"
+}
+-->
+{
+  "mensaje": "respuesta",
+  "valor": "Sydney"
+}
+-->
+{
+  "mensaje": "información",
+  "valor": "Lo siento, esa no es la respuesta correcta. Siga intentando"
+}
+-->
+<--
+{
+  "mensaje": "error",
+  "valor": "La solicitud no tiene formato JSON"
+}
+<--
+{
+  "mensaje": "ganador",
+  "valor": "Devastadores"
+}
+<--
+{
+  "mensaje": "pregunta",
+  "valor": "¿En cuál pasís se juega el mundial 2018?"
+}
+<--
+{
+  "mensaje": "error",
+  "valor": "El operador ha cancelado la respuesta"
+}
+<--
+{
+  "mensaje": "pregunta",
+  "valor": "¿Quién es el presindente de Costa Rica?"
+}
+-->
+{
+  "mensaje": "respuesta",
+  "valor": "Carlos Alvarado"
+}
+<--
+{
+  "mensaje": "ganador",
+  "valor": "Ticos"
+}
+
+<--
+{
+  "mensaje": "fin",
+  "valor": "Tenemos un empate",
+  "ranking": [
+    {
+      "posición": 1,
+      "puntos": 1,
+      "nombre": "Serbia"
+    },
+    {
+      "posición": 2,
+      "puntos": 1,
+      "nombre": "Ticos"
+    }
+  ]
+}

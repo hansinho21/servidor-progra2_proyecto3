@@ -1,0 +1,96 @@
+[
+  {
+    "enunciado": "¿Quién es el presidente de Costa Rica?",
+    "respuestas": [
+      "Carlos Alvarado",
+      "Carlos Alvarado Quesada"
+    ]
+  },
+  {
+    "enunciado": "¿Cuál es la capital de Australia?",
+    "respuestas": [
+      "Canberra"
+    ]
+  },
+  {
+    "enunciado": "¿En cuál país se celebró el Mundial de fútbol 2014?",
+    "respuestas": [
+      "Brazil",
+      "Brasil"
+    ]
+  },
+  {
+    "enunciado": "¿?Cual es el pais mas pequeno del mundo?",
+    "respuestas": [
+      "Vaticano",
+      "El Vaticano"
+    ]
+  },
+  {
+    "enunciado": "¿Cual es el oceano mas grande del mundo?",
+    "respuestas": [
+      "Pacifico",
+      "El Pacifico",
+      "Oceano Pacifico"
+    ]
+  },
+  {
+    "enunciado": "¿A cual pintor se le atribuye el cuadro La Virgen de las Rocas ?",
+    "respuestas": [
+      "DaVinci",
+      "Leonardo",
+      "Leonardo DaVinci"
+    ]
+  },
+  {
+    "enunciado": "¿En cuál siglo fue pintada la Mona Lisa-Gioconda?",
+    "respuestas": [
+      "16",
+      "XVI",
+      "dieciseis"
+    ]
+  },
+  {
+    "enunciado": "¿Que posee la maxima velocidad registrada?",
+    "respuestas": [
+      "Luz",
+      "La luz"
+    ]
+  },
+  {
+    "enunciado": "¿Cual fruta inpira a Newton?",
+    "respuestas": [
+      "La manzana",
+      "Manzana",
+      "Una manzana"
+    ]
+  },
+  {
+    "enunciado": "¿Como se llama la Reina de Inglaterra?",
+    "respuestas": [
+      "Isabel",
+      "Elizabeth"
+    ]
+  },
+  {
+    "enunciado": "¿?",
+    "respuestas": [
+      "",
+      ""
+    ]
+  },
+  {
+    "enunciado": "¿?",
+    "respuestas": [
+      "",
+      ""
+    ]
+  },
+  {
+    "enunciado": "¿?",
+    "respuestas": [
+      "",
+      ""
+    ]
+  }
+]
